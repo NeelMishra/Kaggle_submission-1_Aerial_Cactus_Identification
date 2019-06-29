@@ -1,0 +1,4 @@
+This dataset contains a large number of 32 x 32 thumbnail images containing aerial photos of a columnar cactus (Neobuxbaumia tetetzo). 
+
+
+https://www.kaggle.com/c/aerial-cactus-identification/data
